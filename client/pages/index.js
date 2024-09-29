@@ -56,7 +56,7 @@ const Home = () => {
 
   return (
       <>
-          <Heading mb={12}>Simple Simon's Sick Todos</Heading>
+          <Heading mb={12}>Simple Simon&apos;s Sick Todos</Heading>
 
           <Form mb={10} as='form' onSubmit={addTodo}>
               <Input
